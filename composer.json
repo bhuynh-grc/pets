@@ -1,0 +1,12 @@
+{
+  "name":"bhuynhsd/328/pets",
+  "authors":[
+    {
+      "name":"BaoHuynh",
+      "email":"huynh.bao@greenriver.student.edu"
+    }
+  ],
+  "require":{
+    "bcosca/fatfree-core":"dev-master"
+  }
+}
